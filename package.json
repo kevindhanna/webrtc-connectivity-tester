@@ -1,0 +1,14 @@
+{
+  "name": "webrtc-connectivity-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "signaler/index.js",
+  "scripts": {
+    "build:client": "bash ./scripts/build-and-push-client.sh",
+    "test": "echo 'skipping'",
+    "test:lint": "echo 'skipping'",
+    "test:jest": "echo 'skippuing'"
+  },
+  "author": "",
+  "license": "ISC"
+}
